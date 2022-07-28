@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Buy Macbook Pro",
+      "day": "12th August 2022",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Buy groceries",
+      "day": "30th July 2022",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
